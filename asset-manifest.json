@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-netflix/static/css/main.d24f937f.css",
-    "main.js": "/react-netflix/static/js/main.6d27ab6a.js",
-    "static/js/787.20e5b628.chunk.js": "/react-netflix/static/js/787.20e5b628.chunk.js",
-    "index.html": "/react-netflix/index.html",
-    "main.d24f937f.css.map": "/react-netflix/static/css/main.d24f937f.css.map",
-    "main.6d27ab6a.js.map": "/react-netflix/static/js/main.6d27ab6a.js.map",
-    "787.20e5b628.chunk.js.map": "/react-netflix/static/js/787.20e5b628.chunk.js.map"
+    "main.css": "/react-todolist/static/css/main.be0b1761.css",
+    "main.js": "/react-todolist/static/js/main.3bfeacca.js",
+    "static/js/787.0ede400a.chunk.js": "/react-todolist/static/js/787.0ede400a.chunk.js",
+    "index.html": "/react-todolist/index.html",
+    "main.be0b1761.css.map": "/react-todolist/static/css/main.be0b1761.css.map",
+    "main.3bfeacca.js.map": "/react-todolist/static/js/main.3bfeacca.js.map",
+    "787.0ede400a.chunk.js.map": "/react-todolist/static/js/787.0ede400a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d24f937f.css",
-    "static/js/main.6d27ab6a.js"
+    "static/css/main.be0b1761.css",
+    "static/js/main.3bfeacca.js"
   ]
 }
